@@ -173,8 +173,6 @@ Docker Compose is a tool that helps manages building and setting up a singular o
 
 5. [Specify a Dockerfile or base image](https://docs.docker.com/desktop/dev-environments/specify/)
 
-
-
 ## [Docker Reference Documentation](https://docs.docker.com/reference/)
 
 ### File Formats
