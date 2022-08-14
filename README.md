@@ -15,7 +15,7 @@ An image is an instance of a container. The image contains the container’s fil
 
 ### Starting & Running a Container
 
-1. To create a Container Image you must `cd` into your project directory and create a file called [`Dockerfile`](https://docs.docker.com/engine/reference/build/) to specify the environment variables in the image.
+1. To create a Container Image you must `cd` into your project directory and create a file called [`Dockerfile`](https://docs.docker.com/engine/reference/builder/) to specify the environment variables in the image.
 
 2. Now in the terminal use the `docker build` command to create the Container Image
 
@@ -177,7 +177,7 @@ Docker Compose is a tool that helps manages building and setting up a singular o
 
 ### File Formats
 
-- [`Dockerfile`](https://docs.docker.com/engine/reference/build/)
+- [`Dockerfile`](https://docs.docker.com/engine/reference/builder/)
 
 - [`docker-compose.yaml` file](https://docs.docker.com/compose/compose-file/)
 
